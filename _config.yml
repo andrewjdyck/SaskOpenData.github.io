@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Skinny Bones
-description: "A lightweight site starter for Jekyll"
-logo: 120x120.gif
-teaser: 400x250.gif
+title: OpenDataSK
+description: Using and promoting open data in Saskatchewan, Canada.
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
 locale: en_US
-url: //mmistakes.github.io/skinny-bones-jekyll
+url: 
 
 # Jekyll configuration
 
@@ -21,17 +21,17 @@ gems:
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
-  twitter: mmistakes
-  bio: "Just another boring, tattooed, time traveling designer."
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  name: OpenDataSK
+  web:
+  email: info@opendatask.ca
+  twitter: opendatask
   google:
-    plus: +MichaelRoseDesign
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 3049671934
-  disqus-shortname:
+    plus:
+    ad-client: 
+    ad-slot: 
+  bio: 
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+disqus-shortname:
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

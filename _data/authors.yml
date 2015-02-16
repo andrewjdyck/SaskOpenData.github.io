@@ -1,20 +1,29 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+andrewjdyck:
+  name: Andrew J. Dyck
+  web: http://www.andrewdyck.com
+  email: andrew@andrewdyck.com
+  bio: "A Canadian data scientist"
   avatar: bio-photo.jpg
-  twitter: extravagantman
+  twitter: andrewjdyck
   google:
-    plus: +BillyRick
+    plus: 
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
+edenthecat:
+  name: Eden Rohatensky
+  email: 
+  bio: "Musician, gamer, designer, hacker"
   avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+  twitter: edenthecat
   google:
-    plus: +CorneliusFiddlebone
+    plus: 
+
+graham:
+  name: Graham Haines
+  email: 
+  bio: "Engineer, Policy/Research Analyst, Designer"
+  avatar: bio-photo.jpg
+  twitter: grahamhaines
+  google:
+    plus: 
