@@ -5,6 +5,11 @@
   excerpt: Details about the organization
   image: 400x250.gif
 
+- title: Blog
+  url: /blog/
+  excerpt: A blog about open data
+  image:
+
 - title: Contact
   url: /contact/
   excerpt: Contact Open Data Sask
@@ -15,8 +20,4 @@
   excerpt: A list of open data in the province
   image: 
 
-- blog: Blog
-  url: /blog/
-  excerpt: A blog about open data
-  image:
 
