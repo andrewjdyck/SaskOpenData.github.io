@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Terms & Conditions"
-modified: 2014-08-27T15:00:35-04:00
-excerpt: "Terms & conditions, privacy policy, license, and other legal stuff you won’t read."
+modified: 2015-02-16
+excerpt: "Terms & conditions, privacy policy, license, and other legal stuff."
 image:
   feature:
   teaser:
@@ -11,7 +11,9 @@ share: false
 toc: true
 ---
 
-All content provided is for informational purposes only. The articles and posts on this website are my own and don't necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
+All content provided is for informational purposes only. The articles and posts on this website are my own and do not represent the positions, strategies, or opinions of the employer or its subsidiaries of any authors associated with this site. Furthermore, there is no connection, officially or unofficially, between materials featured on this site and any government body, whether they be municipal, provincial, federal, or international.
+
+We make no representations as to the accuracy or completeness of any information found here or by following any links. We will not be liable for any errors or omissions in this information nor for the availability of this information. We will not be liable for any losses, injuries, or damages from the display or use of this information.
 
 ## Privacy Policy
 
@@ -40,35 +42,11 @@ Third-party advertisers may also place and read cookies on your browser and/or u
 
 If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
 
-#### Amazon
-
-Amazon, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Amazon's Privacy Policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
-
-#### Google Adsense
-
-Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
-
 #### Google Analytics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
-
-## Disclosure Policy
-
-I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I'll get a percentage of that sale.
-
-Currently I'm an affiliate for Amazon and Google Adsense.
-
-What this means for you:
-
-* I do not and will not recommend a product just because I'm an affiliate.
-* I became an affiliate to earn some revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
-* I do not recommend products just for the sake of making money.
-* I recommend products because I think they are valuable to my readers.
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
-* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
-
-Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+Google Analytics is a web analytics tool we use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
 
 ## License
 
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
+All information contained on this website is free and open to do with as you will. You do not need permission to use or re-use anything you find on these pages without attribution, however, we encourage linking back to the original source to recognize the original authors contribution.
+
