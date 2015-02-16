@@ -1,3 +1,9 @@
+---
+layout: article
+title: About
+Excerpt: About Open Data Saskatchewan
+---
+
 ### What is open data and why would I care?
 
 Open data means making information available for citizens to inform and become informed about what happens in government. Open data is not a goal in and of itself though. Rather, open data the foundation upon which we can build Gov2.0 infrastructure, stimulate creative applications of government data, enable citizens and government to respond to our changing economy quickly and make efficient and effective decisions that are driven by data.

@@ -1,73 +1,75 @@
-Links to data sources in Saskatchewan: 
-### Spatial (GIS)
+---
+layout: article
+title: Saskatchewan Open Data Sources
+excerpt: Open data sources in Saskatchewan
+---
 
-*   GeoBase: [Administrative boundaries][1]
-*   [Aboriginal Lands][2] (SHP, KML, GML)
-*   [Canadian Geopolitical Boundaries][3] (SHP, GML) - includes inter-provincial boundaries, international boundary and Exclusive Economic Zone (EEZ).
-*   [Federal electoral districts][4] (SHP, KML, GML)
-*   [Municipal Boundaries][5] (SHP, KML, GML)
-
-*   GeoBase: [Digital elevation data][6]
-*   GeoBase: [Geographical names][7]
-*   GeoBase: [Land cover][8]
-*   GeoBase: [National Hydro Network (NHN)][9]
-*   GeoBase: [National Road Network][10]
-*   GeoBase: [Satellite imagery][11]
-*   GeoBase: [Meta Data Search][12]
-*   Saskatchewan Geospatial Imagery Collaborative ([flysask.ca][13])
-*   [GeoGratis][14] (thematic geospatial data)
-*   [GeoConnections][15]
-*   GeoBase - [SaskGrid 2012][16] (Land Dominion Survey SHP)
-*   [Geological Atlas of Saskatchewan][17]   
+### Spatial (GIS) data
+- GeoBase: [Administrative boundaries][1]
+  - [Aboriginal Lands][2] (SHP, KML, GML)
+  - [Canadian Geopolitical Boundaries][3] (SHP, GML) - includes inter-provincial boundaries, international boundary and Exclusive Economic Zone (EEZ).
+  - [Federal electoral districts][4] (SHP, KML, GML)
+  - [Municipal Boundaries][5] (SHP, KML, GML)
+- GeoBase: [Digital elevation data][6]
+- GeoBase: [Geographical names][7]
+- GeoBase: [Land cover][8]
+- GeoBase: [National Hydro Network (NHN)][9]
+- GeoBase: [National Road Network][10]
+- GeoBase: [Satellite imagery][11]
+- GeoBase: [Meta Data Search][12]
+- GeoBase - [SaskGrid 2012][16] (Land Dominion Survey SHP)
+- Saskatchewan Geospatial Imagery Collaborative ([flysask.ca][13])
+- [GeoGratis][14] (thematic geospatial data)
+- [GeoConnections][15]
+- [Geological Atlas of Saskatchewan][17]
 
 ### Provincial government
 
-*   Statistics Saskatchewan - [Economic accounts][18]
-*   Statistics Saskatchewan - [Monthly reports][19]
-*   Energy and Resources - [Data File Series][20]
-*   Energy and Resources - [Saskatchewan Mineral Assessment Database][21]
-*   Energy and Resources - [Saskatchewan Mineral Deposit Index][22]
-*   Energy and Resources - [Kimberlite Indicator Minerals][23]
-*   Finance - [Public accounts][24] (PDF of Payments [and salaries] over $50,000)
-*   Finance - [Provincial Budget][25] (PDF)
-*   Sask Spills - [Hazardous Materials Storage Search][26]
-*   Sask Spills - [Spills Search][27]
-*   Energy and Resources Saskatchewan - [Oil and gas spill notification database][28]
-*   Energy and Resources Saskatchewan - [Operating mines list (PDF)][29]
-*   Enerygy and Resources Saskatchewan - [Mineral Deposits Index][30]
-*   Energy and Resources Saskatchewan - [Saskatchewan Mineral Assessments Database][31]
-*   
-*   Other provincial datasets
-*   [SARCAN Recycling Deport locations][32]
+- Statistics Saskatchewan - [Economic accounts][18]
+- Statistics Saskatchewan - [Monthly reports][19]
+- Energy and Resources - [Data File Series][20]
+- Energy and Resources - [Saskatchewan Mineral Assessment Database][21]
+- Energy and Resources - [Saskatchewan Mineral Deposit Index][22]
+- Energy and Resources - [Kimberlite Indicator Minerals][23]
+- Finance - [Public accounts][24] (PDF of Payments [and salaries] over $50,000)
+- Finance - [Provincial Budget][25] (PDF)
+- Sask Spills - [Hazardous Materials Storage Search][26]
+- Sask Spills - [Spills Search][27]
+- Energy and Resources Saskatchewan - [Oil and gas spill notification database][28]
+- Energy and Resources Saskatchewan - [Operating mines list (PDF)][29]
+- Enerygy and Resources Saskatchewan - [Mineral Deposits Index][30]
+- Energy and Resources Saskatchewan - [Saskatchewan Mineral Assessments Database][31]
 
-*   SGI - Bicycle accidents in SK (2002 - 2011)
+- Other provincial datasets
+  - [SARCAN Recycling Deport locations][32]
+  - SGI - Bicycle accidents in SK (2002 - 2011)
 
 ### Local (municipal) government
 
-*    Health, socio-economic, crime, etc. - [Saskatoon Health Region Community View][33]
-*   City of Regina (KML / SHP)
-*   Bike paths
-*   City Limits
-*   Community Association Boundaries
-*   Parks and open spaces
-*   Point of interest (also in tab-delimited)
-*   Railways
-*   Road network
-*   Subdivision boundaries
-*   Solid waste collection (boundaries, routes, collection day, service type)
-*   Transit bus routes
-*   Ward boundaries.
+- Health, socio-economic, crime, etc. - [Saskatoon Health Region Community View][33]
+- City of Regina (KML / SHP)
+  - Bike paths
+  - City Limits
+  - Community Association Boundaries
+  - Parks and open spaces
+  - Point of interest (also in tab-delimited)
+  - Railways
+  - Road network
+  - Subdivision boundaries
+  - Solid waste collection (boundaries, routes, collection day, service type)
+  - Transit bus routes
+  - Ward boundaries.
 
 ### Federal government (SK related)
 
-*   Statistics Canada open data portal (Socio-economic data, etc.) - [CANSIM][34]
+- Statistics Canada open data portal (Socio-economic data, etc.) - [CANSIM][34]
 
 ### 
 
 ### Other
 
-*   Regina civic datasets
-*   [Big Blue Recycling Bin locations][35]
+- Regina civic datasets
+  - [Big Blue Recycling Bin locations][35]
 
  [1]: http://www.geobase.ca/geobase/en/data/admin/index.html
  [2]: http://www.geobase.ca/geobase/en/search.do?produit=alta&language=en
