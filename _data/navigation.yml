@@ -5,15 +5,10 @@
   excerpt: Details about the organization
   image: 400x250.gif
 
-- title: Blog
-  url: /blog/
+- title: Articles
+  url: /articles/
   excerpt: A blog about open data
   image:
-
-- title: Contact
-  url: /contact/
-  excerpt: Contact Open Data Sask
-  image: 
 
 - title: Data
   url: /data/
