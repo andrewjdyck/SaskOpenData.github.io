@@ -1,8 +1,10 @@
 ---
 layout: article
 title: Open Data Saskatchewan Inaugural Hackathon
-url: /blog/open-data-saskatchewan-inaugural-hackathon
-categories: blog
+permalink: /articles/open-data-saskatchewan-inaugural-hackathon
+categories: articles
+tags: [hackathon, Regina]
+author: andrewjdyck
 ---
 
 ### What is it? 
