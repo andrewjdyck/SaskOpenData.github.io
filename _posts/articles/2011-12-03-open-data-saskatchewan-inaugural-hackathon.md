@@ -2,6 +2,9 @@
 layout: article
 title: Open Data Saskatchewan Inaugural Hackathon
 permalink: /articles/open-data-saskatchewan-inaugural-hackathon
+image: 
+  teaser: branch-400x250.jpg
+  feature: 
 categories: articles
 tags: [hackathon, Regina]
 author: andrewjdyck
