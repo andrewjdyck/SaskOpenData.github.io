@@ -3,16 +3,16 @@
 - title: About
   url: /about/
   excerpt: Details about the organization
-  image: 400x250.gif
+  #image: 400x250.gif
 
 - title: Articles
   url: /articles/
-  excerpt: A blog about open data
-  image:
+  excerpt: Open data notes from SK
+  #image:
 
 - title: Data
   url: /data/
-  excerpt: A list of open data in the province
-  image: 
+  excerpt: Links to open data resources
+  #image: 
 
 
