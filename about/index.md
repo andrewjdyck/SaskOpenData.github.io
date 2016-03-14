@@ -10,17 +10,12 @@ Open data means making information available for citizens to inform and become i
 
 ### Why are you doing this?
 
-Possibly for the first time, we have the technology to build platforms for citizens and government to communicate on a large scale. We cannot expect government to guess at what we in Saskatchewan might want out of our information infrastructure. We are an extremely resourceful group of people and we have a lot to give in terms of helping our government to serve us better.  
+Possibly for the first time, we have the technology to build platforms for citizens and government to communicate on a large scale. We cannot expect government to guess at what we in Saskatchewan might want out of our information infrastructure. We are an extremely resourceful group of people and we have a lot to give in terms of helping our government to serve us better.
 
 ### Who are you, anyway?
 
-A community of citizens just like you. We are programmers, designers, data scientists, policy wonks, etc. who love working with data and see a bright future in this space for Saskatchewan. The project was started in 2011 by [Andrew J. Dyck][1] with considerable support from like minded individuals at [OpenDataBC.ca][2].
-
-[Eden Rohatensky][3] and [Graham Haines][4] round out the OpenDataSK executive and we've also enjoined a symbiotic relationship with [HackREGINA][5], which is powered by [Chad McCallum][6].
+A community of citizens just like you. We are programmers, designers, data scientists, policy wonks, etc. who love working with data and see a bright future in this space for Saskatchewan. The project was started in 2011 by [Andrew J. Dyck][1] and is maintained with the support of [Eden Rohatensky][2] and [Graham Haines][3], who round out the Open Data Saskatchewan executive.
 
  [1]: http://www.andrewdyck.com
- [2]: http://opendatabc.ca
- [3]: http://edenrohatensky.com/
- [4]: https://twitter.com/grahamhaines
- [5]: https://twitter.com/hackregina
- [6]: https://twitter.com/chademm
+ [2]: http://edenrohatensky.com/
+ [3]: https://twitter.com/grahamhaines
