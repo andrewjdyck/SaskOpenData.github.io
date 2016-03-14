@@ -6,8 +6,7 @@ categories: articles
 author: andrewjdyck
 tags: []
 image:
-  #teaser: branch-400x250.jpg
-  teaser: 
+  teaser: branch-400x250.jpg
   feature:
 ---
 
