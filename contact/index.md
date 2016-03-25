@@ -1,13 +1,10 @@
 ---
 layout: article
-excerpt: Contact Us
-title: Contact Us
+excerpt: Contact
+title: Contact
 ---
 
-Interested in open data in Saskatchewan but don't know where to start? Want to contribute? Give us a shout: 
-
-## Mailing List
-<http://groups.google.com/group/open-data-sk> 
+Interested in open data in Saskatchewan but don't know where to start? Want to contribute? Give me a shout: 
 
 ## E-mail
 <info@opendatask.ca> 

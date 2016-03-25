@@ -14,8 +14,6 @@ Possibly for the first time, we have the technology to build platforms for citiz
 
 ### Who are you, anyway?
 
-A community of citizens just like you. We are programmers, designers, data scientists, policy wonks, etc. who love working with data and see a bright future in this space for Saskatchewan. The project was started in 2011 by [Andrew J. Dyck][1] and is maintained with the support of [Eden Rohatensky][2] and [Graham Haines][3], who round out the Open Data Saskatchewan executive advisory board.
+The Open Data Saskatchewan project was started in 2011 by [Andrew J. Dyck][1]. The project depends heavily on a support from a loose collection of open data enthusiasts across the province. If you'd like to get involved, please [contact me]({{site.url}}/contact/).
 
  [1]: http://www.andrewdyck.com
- [2]: http://edenrohatensky.com/
- [3]: https://twitter.com/grahamhaines
