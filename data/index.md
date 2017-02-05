@@ -17,7 +17,7 @@ excerpt: Open data sources in Saskatchewan
 - GeoBase: [National Road Network][10]
 - GeoBase: [Satellite imagery][11]
 - GeoBase: [Meta Data Search][12]
-- GeoBase - [SaskGrid 2012][16] (Land Dominion Survey SHP)
+- GeoBase - [SaskGrid 2012] (Land Dominion Survey SHP) **REMOVED FROM PUBLIC DOMAIN**
 - Saskatchewan Geospatial Imagery Collaborative ([flysask.ca][13])
 - [GeoGratis][14] (thematic geospatial data)
 - [GeoConnections][15]
