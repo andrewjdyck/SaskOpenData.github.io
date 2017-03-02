@@ -1,0 +1,53 @@
+BaseUrl= "http://opendatask.ca/"
+LanguageCode= "en-US"
+Title= "Saskatchewan Open Data"
+paginate = 5
+theme = "hugo-theme-casper"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+DisqusShortname = "open-data-saskatchewan.disqus.com"
+Copyright = "All rights reserved - 2017"
+canonifyurls = true
+
+[params]
+  description = "Opening Saskatchewan to the world"
+  cover = "images/cover.jpg"
+  author = "Andrew Dyck"
+  authorlocation = "Regina, SK"
+  authorwebsite = "http://andrewdyck.com"
+  bio= "Andrew loves data. When he's not moving bytes around databases, he's writing about open data."
+  logo = "images/logo.png"
+  googleAnalyticsUserID = "UA-26754725-1"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "SaskOpenData"
+  twitterName = "opendatask"
+  # facebookName = ""
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  [params.social]
+    twitter = "opendatask"
+
+[[menu.main]]
+  name = "Articles"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About"
+  weight = -110
+  identifier = "about"
+  url = "/about"
+
+[[menu.main]]
+  name = "Data Sources"
+  weight = -100
+  identifier = "data"
+  url = "/data"
+
+[[menu.main]]
+  name = "Contact"
+  weight = -90
+  identifier = "contact"
+  url = "/contact"
