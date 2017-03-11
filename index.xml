@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saskatchewan Open Data</title>
+    <link>http://opendatask.ca/</link>
+    <description>Recent content on Saskatchewan Open Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Sat, 11 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://opendatask.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Review of Open Data in Saskatachewan 2017</title>
+      <link>http://opendatask.ca/post/open-data-day-recap-2017/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://opendatask.ca/post/open-data-day-recap-2017/</guid>
+      <description>&lt;!-- BLOGDOWN-BODY-BEFORE
+
+/BLOGDOWN-BODY-BEFORE --&gt;
+
+&lt;p&gt;It was International Open Data Day on March 5, 2017. The day has breezed by me this year, as with many previous years. Let’s review where the province has been on open data over this time and where it might be going.&lt;/p&gt;
+&lt;div id=&#34;recap-of-open-data-saskatchewan&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Recap of Open Data Saskatchewan&lt;/h3&gt;
+&lt;p&gt;This site has now been live for just over 5 years. There hasn’t been much change to the site over this time, but there have been some changes in the province. Now is as good a time as any to review some of these.&lt;/p&gt;
+&lt;p&gt;My initial thoughts for Open Data Saskatchewan was for it to be a thriving community of people across the province both using and promoting open data. I’d say that the open data movement in SK has been one with several fits and starts, but that whatever open data community there is, it would be a stretch to call it thriving. Rather, there are a handfull of people, perhaps a few dozen, spread across the province slowly making changes.&lt;/p&gt;
+&lt;p&gt;My own progress on Open Data Saskatchewan has been slow as well, with several periods where I’ve attempted to re-imagine what this thing might be and what it might not be. I’ve settled for now and staying low-key and continuing to act as an unofficial resource for where to find open data in the province through scanning of the various ministries, municipalities and crown corporations.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;saskatchewan-open-data-portals&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Saskatchewan Open Data portals&lt;/h3&gt;
+&lt;p&gt;The last 5 years have seen a great deal of progress for the creation of data portals. Indeed, the most difficult step in any project is to go from nothing to something, and that is what’s happened in Saskatchewan in a pretty big way.&lt;/p&gt;
+&lt;div id=&#34;city-of-regina&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;City of Regina&lt;/h4&gt;
+&lt;p&gt;This March marks a major revamp of the &lt;a href=&#34;http://open.regina.ca/&#34;&gt;City of Regina Open Data Portal&lt;/a&gt;, now with more than 200 open datasets. When this site began, the number of open datasets available from Regina was zero and when the City first opened its portal, there were a small number of, arguably quite useful, datasets for download.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;city-of-saskatoon&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;City of Saskatoon&lt;/h4&gt;
+&lt;p&gt;The &lt;a href=&#34;http://opendata-saskatoon.cloudapp.net/&#34;&gt;City of Saskatoon setup its data portal&lt;/a&gt; shortly after the City of Regina made the leap, first choosing a limited beta release for developers only and later opening this to the wider public. Like Regina, Saskatoon chose to get involved with &lt;a href=&#34;https://news.microsoft.com/2009/05/07/microsoft-open-government-data-initiative-to-help-foster-transparency-and-collaboration/&#34;&gt;Microsoft’s Open Government Data Initiative&lt;/a&gt; (OGDI), which like many Microsoft initiatives, seems to have had a lot of energy poured into it in the beginning and &lt;a href=&#34;https://github.com/openlab/OGDI-DataLab&#34;&gt;petered out&lt;/a&gt; when it wasn’t an instant success. Regina has stopped using the OGDI cloud solution, while Sasktaoon continues to use this as its open data portal host. I’d classify the datasets available through the City of Saskatoon as useful and valuable to developers, but there has been slower expansion of data available than Regina.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;provincial-open-data&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Provincial open data&lt;/h3&gt;
+&lt;div id=&#34;battle-of-the-prairies&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Battle of the prairies&lt;/h4&gt;
+&lt;p&gt;Saskatchewan is among &lt;a href=&#34;http://open.canada.ca/en/maps/open-data-canada#overlay_0&#34;&gt;just two provinces&lt;/a&gt; to have avoided making the move towards government transparency via open data. One might think that competing to not be the last province in Canada to adopt an open data strategy would put a fire under both Saskatchewan and Manitoba, but both entities have held out so far. It will be an interesting race to see which of these provinces can leave the other with the title of the last province in Canada to adopt open data.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;requiem-for-dream-of-open-gis-in-saskatchewan&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Requiem for dream of open GIS in Saskatchewan&lt;/h4&gt;
+&lt;p&gt;There was once a pretty decent resource for geographical data in Saskatchewan. This was known as GeoSask - a partnership between the Government of Saskatchewan and one of it’s crown corporations &lt;a href=&#34;https://www.isc.ca/Pages/default.aspx&#34;&gt;Information Services Corporation&lt;/a&gt; (ISC). GeoSask was a fantastic resource for data nerds and beyond with several geographical datasets relating to Saskatchewan available for use and exploration.&lt;/p&gt;
+&lt;p&gt;With little fanfare, the partnership between ISC and the government ended and on May 19, 2016, &lt;a href=&#34;https://www.isc.ca/Pages/Content%20Gallery/GeoSask.aspx&#34;&gt;GeoSask was shut down&lt;/a&gt;. Some of the datasets available through GeoSask are still available in other locations, while others are not. The story of ISC and open data is a complex one that deserves a post of its own.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;whats-next-for-open-data-in-the-province&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;What’s next for open data in the province?&lt;/h3&gt;
+&lt;div id=&#34;provincial-open-data-steady-as-she-goes&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Provincial open data: steady as she goes&lt;/h4&gt;
+&lt;p&gt;With the history of slow movement towards open data in Saskatchewan, I’d expect the trend to continue. I’d honestly put coin flip probability on whether Saskatchewan or Manitoba will be the last to make the move. I did see that the SK goverment posted (and presumably hired) a job with open data in the title a year or two back, so there must be some discussion about this topic in the halls of the public service.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;municipal-open-data-changes-expected&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Municipal open data: changes expected&lt;/h4&gt;
+&lt;p&gt;With the recent update to the Regina open data portal, I do continue to see investment, both financial and strategic in transparency and connectivity. It wouldn’t shock me to see the City of Saskatoon counter Regina’s recent move and expand its portfolio of open datasets. Most likely I see this coming as they abandon the OGDI platform for something like CKAN.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;saskatchewan-open-data-community&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Saskatchewan open data community&lt;/h4&gt;
+&lt;p&gt;The open data community in Saskatchewan reflects its general population - small and diffuse. In theory, advances in connectivity (social media, social coding, etc.) should speed the development of communities in SK, but this has yet to be seen on a significant scale. During 2011, 2012, &amp;amp; 2013, there was some community momentum and while this momentum has slowed, I believe there is appetite for renewed activity if the right people get involved.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;!-- BLOGDOWN-HEAD
+
+
+
+
+/BLOGDOWN-HEAD --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Open Data Saskatchewan</title>
+      <link>http://opendatask.ca/about/</link>
+      <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://opendatask.ca/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-is-open-data-and-why-would-i-care&#34;&gt;What is open data and why would I care?&lt;/h2&gt;
+
+&lt;p&gt;Open data means making information available for citizens to inform and become informed about what happens in government. Open data is not a goal in and of itself though. Rather, open data the foundation upon which we can build Gov2.0 infrastructure, stimulate creative applications of government data, enable citizens and government to respond to our changing economy quickly and make efficient and effective decisions that are driven by data.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-are-you-doing-this&#34;&gt;Why are you doing this?&lt;/h2&gt;
+
+&lt;p&gt;Possibly for the first time, we have the technology to build platforms for citizens and government to communicate on a large scale. We cannot expect government to guess at what we in Saskatchewan might want out of our information infrastructure. We are an extremely resourceful group of people and we have a lot to give in terms of helping our government to serve us better.&lt;/p&gt;
+
+&lt;h2 id=&#34;who-are-you-anyway&#34;&gt;Who are you, anyway?&lt;/h2&gt;
+
+&lt;p&gt;The Open Data Saskatchewan project was started in 2011 by Andrew J. Dyck. The project depends heavily on a support from a loose collection of open data enthusiasts across the province. If you’d like to get involved, please contact me. There is zero connection, officially or unofficially between this website and any government body; though I am always interested and open to hearing from those involved in government.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Saskatchewan Open Data Sources</title>
+      <link>http://opendatask.ca/data/</link>
+      <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://opendatask.ca/data/</guid>
+      <description>
+
+&lt;h3 id=&#34;spatial-gis-data&#34;&gt;Spatial (GIS) data&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;GeoBase: &lt;a href=&#34;http://www.geobase.ca/geobase/en/data/admin/index.html&#34;&gt;Administrative boundaries&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.geobase.ca/geobase/en/search.do?produit=alta&amp;amp;language=en&#34;&gt;Aboriginal Lands&lt;/a&gt; (SHP, KML, GML)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.geobase.ca/geobase/en/search.do?produit=cgb&amp;amp;language=en&#34;&gt;Canadian Geopolitical Boundaries&lt;/a&gt; (SHP, GML) - includes inter-provincial boundaries, international boundary and Exclusive Economic Zone (EEZ).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.geobase.ca/geobase/en/search.do?produit=fed&amp;amp;language=en&#34;&gt;Federal electoral districts&lt;/a&gt; (SHP, KML, GML)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.geobase.ca/geobase/en/search.do?produit=muni&amp;amp;language=en&#34;&gt;Municipal Boundaries&lt;/a&gt; (SHP, KML, GML)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;GeoBase: &lt;a href=&#34;http://www.geobase.ca/geobase/en/data/cded/index.html&#34;&gt;Digital elevation data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GeoBase: &lt;a href=&#34;http://www.geobase.ca/geobase/en/data/cgn/index.html&#34;&gt;Geographical names&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GeoBase: &lt;a href=&#34;http://www.geobase.ca/geobase/en/data/landcover/index.html&#34;&gt;Land cover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GeoBase: &lt;a href=&#34;http://www.geobase.ca/geobase/en/data/nhn/index.html&#34;&gt;National Hydro Network (NHN)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GeoBase: &lt;a href=&#34;http://www.geobase.ca/geobase/en/data/nrn/index.html&#34;&gt;National Road Network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GeoBase: &lt;a href=&#34;http://www.geobase.ca/geobase/en/data/imagery/index.html&#34;&gt;Satellite imagery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GeoBase: &lt;a href=&#34;https://www.geosask.ca/Portal/DiscoveryServlet&#34;&gt;Meta Data Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GeoBase - &lt;a href=&#34;Land Dominion Survey SHP&#34;&gt;SaskGrid 2012&lt;/a&gt; &lt;strong&gt;REMOVED FROM PUBLIC DOMAIN&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Saskatchewan Geospatial Imagery Collaborative (&lt;a href=&#34;http://www.flysask.ca/&#34;&gt;flysask.ca&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://geogratis.cgdi.gc.ca/geogratis/en/index.html&#34;&gt;GeoGratis&lt;/a&gt; (thematic geospatial data)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.geoconnections.ca/en/index.html&#34;&gt;GeoConnections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.infomaps.gov.sk.ca/website/SIR_Geological_Atlas/viewer.htm&#34;&gt;Geological Atlas of Saskatchewan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;provincial-government&#34;&gt;Provincial government&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Statistics Saskatchewan - &lt;a href=&#34;http://www.stats.gov.sk.ca/Default.aspx?DN=6dab2e58-1fdc-4ab2-aab4-f0671ddbeae9&#34;&gt;Economic accounts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Statistics Saskatchewan - &lt;a href=&#34;http://www.stats.gov.sk.ca/monthly%20reports&#34;&gt;Monthly reports&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Energy and Resources - &lt;a href=&#34;http://www.er.gov.sk.ca/Default.aspx?DN=984a7f7e-8cfa-4880-a880-e5370c0f1fca&#34;&gt;Data File Series&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Energy and Resources - &lt;a href=&#34;http://www.er.gov.sk.ca/smad&#34;&gt;Saskatchewan Mineral Assessment Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Energy and Resources - &lt;a href=&#34;http://www.er.gov.sk.ca/SMDI&#34;&gt;Saskatchewan Mineral Deposit Index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Energy and Resources - &lt;a href=&#34;http://www.er.gov.sk.ca/kim&#34;&gt;Kimberlite Indicator Minerals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Finance - &lt;a href=&#34;http://www.finance.gov.sk.ca/public-accounts/&#34;&gt;Public accounts&lt;/a&gt; (PDF of Payments [and salaries] over $50,000)&lt;/li&gt;
+&lt;li&gt;Finance - &lt;a href=&#34;http://www.finance.gov.sk.ca/budget&#34;&gt;Provincial Budget&lt;/a&gt; (PDF)&lt;/li&gt;
+&lt;li&gt;Sask Spills - &lt;a href=&#34;http://www.saskspills.ca/hazstg_srch.asp&#34;&gt;Hazardous Materials Storage Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sask Spills - &lt;a href=&#34;http://www.saskspills.ca/spills_srch.asp&#34;&gt;Spills Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Energy and Resources Saskatchewan - &lt;a href=&#34;http://www.ir.gov.sk.ca/adx/aspx/adxGetMedia.aspx?DocID=3690,3680,3384,5460,2936,Documents&amp;amp;MediaID=39618&amp;amp;Filename=Spill+Notification+Data+March+23%2c+2012.xlsx&#34;&gt;Oil and gas spill notification database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Energy and Resources Saskatchewan - &lt;a href=&#34;http://www.ir.gov.sk.ca/adx/aspx/adxGetMedia.aspx?DocID=10555,10306,3385,5460,2936,Documents&amp;amp;MediaID=38812&amp;amp;Filename=OML+October+2011+-+Cover+and+List.pdf&#34;&gt;Operating mines list (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Enerygy and Resources Saskatchewan - &lt;a href=&#34;http://www.ir.gov.sk.ca/SMDI&#34;&gt;Mineral Deposits Index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Energy and Resources Saskatchewan - &lt;a href=&#34;http://www.ir.gov.sk.ca/smad&#34;&gt;Saskatchewan Mineral Assessments Database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;municipal-government&#34;&gt;Municipal government&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://open.regina.ca/&#34;&gt;City of Regina Open Data&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spatial: Bike paths, City Boundaries, Points of Interest, etc.&lt;/li&gt;
+&lt;li&gt;Other: Elections, Neighbourhood Population Estimates, etc.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://opendata-saskatoon.cloudapp.net/&#34;&gt;City of Saskatoon Open Data Portal (Beta)&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spatial: City Boundaries, Points of Interest, etc.&lt;/li&gt;
+&lt;li&gt;Other: Neighbourhood demographics&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;crown-corporations-health-care&#34;&gt;Crown Corporations &amp;amp; Health Care&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.communityview.ca/&#34;&gt;Saskatoon Health Region Community View&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Health, socio-economic, crime, etc.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hqc.sk.ca/&#34;&gt;Sask Health Quality Council&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.qualityinsight.ca&#34;&gt;Quality Insight&lt;/a&gt;: Health indicators&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sgi.sk.ca/&#34;&gt;Saskatchewan Government Insurance&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sgi.sk.ca/about/publications/collisionstats/&#34;&gt;Can contact for data requests such as traffic accidents, etc.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SGI - Bicycle accidents in SK (2002 - 2011)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;federal-government-sk-related&#34;&gt;Federal government (SK related)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Statistics Canada open data portal (Socio-economic data, etc.) - &lt;a href=&#34;http://cansim2.statcan.ca/&#34;&gt;CANSIM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Data Saskatchewan Inaugural Hackathon</title>
+      <link>http://opendatask.ca/post/2011-12-03-open-data-saskatchewan-inaugural-hackathon/</link>
+      <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://opendatask.ca/post/2011-12-03-open-data-saskatchewan-inaugural-hackathon/</guid>
+      <description>
+
+&lt;h3 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h3&gt;
+
+&lt;p&gt;An event for open data enthusiasts and developers and others to get involved in their community through improving access to and use of open data in the province. A hackathon is a great place to build new open data driven apps, meet people and have a good time.&lt;/p&gt;
+
+&lt;p&gt;You can sign up for the event here: &lt;a href=&#34;http://opendatask1.eventbrite.com&#34;&gt;http://opendatask1.eventbrite.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;where-and-when&#34;&gt;Where and when?&lt;/h3&gt;
+
+&lt;p&gt;The nice folks at the George Bothwell library have agreed to have us on Saturday, December 3, 2011 from 10am - 4pm.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-details&#34;&gt;Other details?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/spreadsheet/ccc?key=0AvnNw9KL8fpbdDdVSFNyV094ZzEybWN2WGRKeGNvUkE&#34;&gt;Project ideas document&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://opendatask.ca/tools/&#34;&gt;Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://opendatask.ca/data/&#34;&gt;Data sources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1wBBolnxsVteVWvzhGjY4xeYaNO8x0j25EZoaGO2z-pE/edit&#34;&gt;Hackathon collaborative doc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Data Day in Saskatchewan</title>
+      <link>http://opendatask.ca/post/2011-11-05-open-data-day-in-saskatchewan/</link>
+      <pubDate>Sat, 05 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://opendatask.ca/post/2011-11-05-open-data-day-in-saskatchewan/</guid>
+      <description>&lt;p&gt;Starting off the Open Data Saskatchewan blog I&amp;rsquo;d like to throw an idea out there to hold an introductory open data event in Regina, SK on &lt;a href=&#34;http://www.opendataday.org/&#34;&gt;international open data day&lt;/a&gt;, which is December 3, 2011. I&amp;rsquo;ve added Regina to the &lt;a href=&#34;http://www.opendataday.org/wiki/City_Events_2011&#34;&gt;list of cities hosting a &amp;lsquo;hackathon&amp;rsquo; meeting on that day&lt;/a&gt;, however, anyone in Saskatchewan interested in open data should consider attending if they can. I&amp;rsquo;d like to work with some others interested in attending to see what type of events we can do on this day. Options might include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Discussion about what open data is and what it means for Saskatchewan&lt;/li&gt;
+&lt;li&gt;Show and tell: how open data is being used in Canada and beyond&lt;/li&gt;
+&lt;li&gt;Data hacking with Saskatchewan related data from &lt;a href=&#34;http://data.gc.ca&#34;&gt;http://data.gc.ca&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Get in touch using the details on the &lt;a href=&#34;http://opendatask.ca/contact&#34;&gt;contact page&lt;/a&gt; for more information or&lt;a href=&#34;http://www.opendataday.org/wiki/City_Events_2011#Regina&#34;&gt; add your name to the list&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://opendatask.ca/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://opendatask.ca/contact/</guid>
+      <description>
+
+&lt;p&gt;Interested in open data in Saskatchewan but don&amp;rsquo;t know where to start? Want to contribute? Give me a shout:&lt;/p&gt;
+
+&lt;h2 id=&#34;e-mail&#34;&gt;E-mail&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:info@opendatask.ca&#34;&gt;info@opendatask.ca&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;twitter&#34;&gt;Twitter&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/opendatask&#34;&gt;@OpenDataSK&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
