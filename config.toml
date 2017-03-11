@@ -1,5 +1,5 @@
-BaseUrl= "http://opendatask.ca/"
-LanguageCode= "en-US"
+BaseUrl = "http://opendatask.ca/"
+LanguageCode = "en-US"
 Title= "Saskatchewan Open Data"
 paginate = 5
 theme = "hugo-theme-casper"

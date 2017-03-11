@@ -8,5 +8,6 @@ _asset_bundler_cache
 .sass-cache
 .Rproj.user
 public/
+blogdown/
 .Rhistory
 
