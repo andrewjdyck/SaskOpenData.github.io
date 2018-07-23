@@ -33,8 +33,8 @@ excerpt = "Open data sources in Saskatchewan"
 - Energy and Resources - [Kimberlite Indicator Minerals][23]
 - Finance - [Public accounts][24] (PDF of Payments [and salaries] over $50,000)
 - Finance - [Provincial Budget][25] (PDF)
-- Sask Spills - [Hazardous Materials Storage Search][26]
-- Sask Spills - [Spills Search][27]
+- Sask Spills - [Hazardous Materials Storage Search]<!---[26]--->
+- Sask Spills - [Spills Search]<!---[27]--->
 - Energy and Resources Saskatchewan - [Oil and gas spill notification database][28]
 - Energy and Resources Saskatchewan - [Operating mines list (PDF)][29]
 - Enerygy and Resources Saskatchewan - [Mineral Deposits Index][30]
@@ -90,8 +90,10 @@ excerpt = "Open data sources in Saskatchewan"
  [23]: http://www.er.gov.sk.ca/kim
  [24]: http://www.finance.gov.sk.ca/public-accounts/
  [25]: http://www.finance.gov.sk.ca/budget
+<!---
  [26]: http://www.saskspills.ca/hazstg_srch.asp
  [27]: http://www.saskspills.ca/spills_srch.asp
+--->
  [28]: http://www.ir.gov.sk.ca/adx/aspx/adxGetMedia.aspx?DocID=3690,3680,3384,5460,2936,Documents&MediaID=39618&Filename=Spill+Notification+Data+March+23%2c+2012.xlsx
  [29]: http://www.ir.gov.sk.ca/adx/aspx/adxGetMedia.aspx?DocID=10555,10306,3385,5460,2936,Documents&MediaID=38812&Filename=OML+October+2011+-+Cover+and+List.pdf
  [30]: http://www.ir.gov.sk.ca/SMDI
