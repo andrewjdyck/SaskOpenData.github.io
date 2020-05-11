@@ -1,6 +1,7 @@
 +++
 title = "About Open Data Saskatchewan"
 date = "2016-12-19"
+type = "page"
 +++
 
 
