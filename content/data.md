@@ -2,26 +2,21 @@
 title = "Saskatchewan Open Data Sources"
 date = "2016-12-19"
 excerpt = "Open data sources in Saskatchewan"
+tags = []
 +++
 
-### Spatial (GIS) data
-- GeoBase: [Administrative boundaries][1]
-  - [Aboriginal Lands][2] (SHP, KML, GML)
-  - [Canadian Geopolitical Boundaries][3] (SHP, GML) - includes inter-provincial boundaries, international boundary and Exclusive Economic Zone (EEZ).
-  - [Federal electoral districts][4] (SHP, KML, GML)
-  - [Municipal Boundaries][5] (SHP, KML, GML)
-- GeoBase: [Digital elevation data][6]
-- GeoBase: [Geographical names][7]
-- GeoBase: [Land cover][8]
-- GeoBase: [National Hydro Network (NHN)][9]
-- GeoBase: [National Road Network][10]
-- GeoBase: [Satellite imagery][11]
-- GeoBase: [Meta Data Search][12]
-- GeoBase - [SaskGrid 2012] (Land Dominion Survey SHP) **REMOVED FROM PUBLIC DOMAIN**
-- Saskatchewan Geospatial Imagery Collaborative ([flysask.ca][13])
-- [GeoGratis][14] (thematic geospatial data)
-- [GeoConnections][15]
-- [Geological Atlas of Saskatchewan][17]
+
+
+## Liberated data
+
+The following datasets are open/available, but not ["tidy"](https://en.wikipedia.org/wiki/Tidy_data) or easily accessible. Some effort to improve the accessibility of this data has been made in the most transparent way possible.
+
+- [Saskatchewan COVID-19 cases time-series](https://github.com/SaskOpenData/covid19-sask)
+- [Crown agricultural land sales (annual)](https://github.com/SaskOpenData/Sask-Open-Data-Sources/blob/master/crown-land-sales-annual.csv)
+- [Regina crime data](https://github.com/andrewjdyck/regina-crime-data)
+
+
+## Official open data
 
 ### Provincial government
 
@@ -63,6 +58,24 @@ excerpt = "Open data sources in Saskatchewan"
 ### Federal government (SK related)
 - Statistics Canada open data portal (Socio-economic data, etc.) - [CANSIM][34]
 
+### Spatial (GIS) data
+- GeoBase: [Administrative boundaries][1]
+  - [Aboriginal Lands][2] (SHP, KML, GML)
+  - [Canadian Geopolitical Boundaries][3] (SHP, GML) - includes inter-provincial boundaries, international boundary and Exclusive Economic Zone (EEZ).
+  - [Federal electoral districts][4] (SHP, KML, GML)
+  - [Municipal Boundaries][5] (SHP, KML, GML)
+- GeoBase: [Digital elevation data][6]
+- GeoBase: [Geographical names][7]
+- GeoBase: [Land cover][8]
+- GeoBase: [National Hydro Network (NHN)][9]
+- GeoBase: [National Road Network][10]
+- GeoBase: [Satellite imagery][11]
+- GeoBase: [Meta Data Search][12]
+- GeoBase - [SaskGrid 2012] (Land Dominion Survey SHP) **REMOVED FROM PUBLIC DOMAIN**
+- Saskatchewan Geospatial Imagery Collaborative ([flysask.ca][13])
+- [GeoGratis][14] (thematic geospatial data)
+- [GeoConnections][15]
+- [Geological Atlas of Saskatchewan][17]
 
 
  [1]: http://www.geobase.ca/geobase/en/data/admin/index.html

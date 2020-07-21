@@ -5,17 +5,18 @@ paginate = 5
 theme = "hugo-theme-casper"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 DisqusShortname = "open-data-saskatchewan.disqus.com"
-Copyright = "All rights reserved - 2017"
+Copyright = "All rights reserved - 2020"
 canonifyurls = true
 
 [params]
-  description = "Opening Saskatchewan to the world"
+  description = "Data transparency for the flatlands"
   cover = "images/cover.jpg"
   author = "Andrew Dyck"
   authorlocation = "Regina, SK"
   authorwebsite = "http://andrewdyck.com"
-  bio= "Andrew loves data. When he's not moving bytes around databases, he's writing about open data."
+  bio= "Andrew loves data. When he's not moving bytes around for analysis or visualization, he's writing about open data."
   logo = "images/logo.png"
+  mailchimpurl = "https://opendatask.us20.list-manage.com/subscribe/post?u=4194d641d0e422e7e016b09ba&amp;id=0e854551b7"
   googleAnalyticsUserID = "UA-26754725-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
@@ -28,10 +29,11 @@ canonifyurls = true
   [params.social]
     twitter = "opendatask"
 
+
 [[menu.main]]
-  name = "Articles"
+  name = "Home"
   weight = -120
-  identifier = "blog"
+  identifier = "home"
   url = "/"
 
 [[menu.main]]
@@ -47,7 +49,13 @@ canonifyurls = true
   url = "/data"
 
 [[menu.main]]
-  name = "Contact"
+  name = "Newsletter"
   weight = -90
+  identifier = "newsletter"
+  url = "/newsletter"
+
+[[menu.main]]
+  name = "Contact"
+  weight = -80
   identifier = "contact"
   url = "/contact"

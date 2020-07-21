@@ -2,6 +2,7 @@
 title = "Terms & Conditions"
 date = "2016-12-19"
 draft = true
+tags = []
 +++
 
 ## General
