@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Saskatchewan Open Data</title>
+    <title>articles on Saskatchewan Open Data</title>
     <link>http://opendatask.ca/categories/articles/</link>
-    <description>Recent content in Articles on Saskatchewan Open Data</description>
+    <description>Recent content in articles on Saskatchewan Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>All rights reserved - 2017</copyright>
+    <copyright>All rights reserved - 2020</copyright>
     <lastBuildDate>Sat, 05 Nov 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://opendatask.ca/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://opendatask.ca/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Open Data Day in Saskatchewan</title>
@@ -16,16 +18,7 @@
       <pubDate>Sat, 05 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>http://opendatask.ca/post/2011-11-05-open-data-day-in-saskatchewan/</guid>
-      <description>&lt;p&gt;Starting off the Open Data Saskatchewan blog I&amp;rsquo;d like to throw an idea out there to hold an introductory open data event in Regina, SK on &lt;a href=&#34;http://www.opendataday.org/&#34;&gt;international open data day&lt;/a&gt;, which is December 3, 2011. I&amp;rsquo;ve added Regina to the &lt;a href=&#34;http://www.opendataday.org/wiki/City_Events_2011&#34;&gt;list of cities hosting a &amp;lsquo;hackathon&amp;rsquo; meeting on that day&lt;/a&gt;, however, anyone in Saskatchewan interested in open data should consider attending if they can. I&amp;rsquo;d like to work with some others interested in attending to see what type of events we can do on this day. Options might include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Discussion about what open data is and what it means for Saskatchewan&lt;/li&gt;
-&lt;li&gt;Show and tell: how open data is being used in Canada and beyond&lt;/li&gt;
-&lt;li&gt;Data hacking with Saskatchewan related data from &lt;a href=&#34;http://data.gc.ca&#34;&gt;http://data.gc.ca&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Get in touch using the details on the &lt;a href=&#34;http://opendatask.ca/contact&#34;&gt;contact page&lt;/a&gt; for more information or&lt;a href=&#34;http://www.opendataday.org/wiki/City_Events_2011#Regina&#34;&gt; add your name to the list&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Starting off the Open Data Saskatchewan blog I&amp;rsquo;d like to throw an idea out there to hold an introductory open data event in Regina, SK on international open data day, which is December 3, 2011. I&amp;rsquo;ve added Regina to the list of cities hosting a &amp;lsquo;hackathon&amp;rsquo; meeting on that day, however, anyone in Saskatchewan interested in open data should consider attending if they can. I&amp;rsquo;d like to work with some others interested in attending to see what type of events we can do on this day.</description>
     </item>
     
   </channel>

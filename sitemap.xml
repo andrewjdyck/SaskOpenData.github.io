@@ -1,5 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://opendatask.ca/post/open-data-day-recap-2017/</loc>
+    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opendatask.ca/tags/open-data-day/</loc>
+    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opendatask.ca/post/</loc>
+    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opendatask.ca/tags/review/</loc>
+    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>http://opendatask.ca/</loc>
@@ -7,7 +28,7 @@
   </url>
   
   <url>
-    <loc>http://opendatask.ca/post/open-data-day-recap-2017/</loc>
+    <loc>http://opendatask.ca/tags/</loc>
     <lastmod>2017-03-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -17,13 +38,38 @@
   </url>
   
   <url>
+    <loc>http://opendatask.ca/newsletter/</loc>
+    <lastmod>2016-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://opendatask.ca/data/</loc>
     <lastmod>2016-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://opendatask.ca/tags/hackathon/</loc>
+    <lastmod>2011-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://opendatask.ca/post/2011-12-03-open-data-saskatchewan-inaugural-hackathon/</loc>
     <lastmod>2011-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opendatask.ca/tags/regina/</loc>
+    <lastmod>2011-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opendatask.ca/categories/articles/</loc>
+    <lastmod>2011-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opendatask.ca/categories/</loc>
+    <lastmod>2011-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>

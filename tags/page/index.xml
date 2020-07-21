@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>page on Saskatchewan Open Data</title>
+    <link>/tags/page/</link>
+    <description>Recent content in page on Saskatchewan Open Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2020</copyright>
+    <lastBuildDate>Mon, 19 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Saskatchewan Open Data Sources</title>
+      <link>/data/</link>
+      <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/data/</guid>
+      <description>Liberated data The following datasets are open/available, but not &amp;ldquo;tidy&amp;rdquo; or easily accessible. Some effort to improve the accessibility of this data has been made in the most transparent way possible.
+ Saskatchewan COVID-19 cases time-series Crown agricultural land sales (annual) Regina crime data  Official open data Provincial government  Statistics Saskatchewan - Economic accounts Statistics Saskatchewan - Monthly reports Energy and Resources - Data File Series Energy and Resources - Saskatchewan Mineral Assessment Database Energy and Resources - Saskatchewan Mineral Deposit Index Energy and Resources - Kimberlite Indicator Minerals Finance - Public accounts (PDF of Payments [and salaries] over $50,000) Finance - Provincial Budget (PDF) Sask Spills - [Hazardous Materials Storage Search]&amp;lt;!</description>
+    </item>
+    
+  </channel>
+</rss>
