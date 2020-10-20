@@ -1,0 +1,39 @@
+---
+author: "andrewjdyck"
+date: "2020-10-20"
+draft: false
+title: "Predicting Results of the 29th Saskatchewan General Election (2020)"
+slug: "/riding-predictions-SK-GE-2020"
+tags: ["election","democracy","model","prediction"]
+comments: true     # set false to hide Disqus comments
+share: true        # set false to share buttons
+menu: ""           # set "main" to add this content to the main menu
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(kableExtra)
+library(DT)
+library(widgetframe)
+```
+
+# Predicted election result
+
+```{r, echo=FALSE, message=FALSE}
+kbl(readr::read_csv('./summary-output.csv'), align="c") %>%
+  kable_paper(full_width = F) %>%
+  column_spec(1, bold=T)
+```
+
+# Predicted results for Saskatchewan provincial ridings
+
+```{r, echo=FALSE, message=FALSE}
+dta <- readr::read_csv('./model-output.csv')
+dta$WinProbability = round(dta$WinProbability*100, 0)
+dta$Prediction <- ifelse(dta$PredictedWinner == 1, 'Win', 'Lose')
+dta$PredictedWinner <- NULL
+widgetframe::frameWidget(datatable(dta))
+```
+
+
