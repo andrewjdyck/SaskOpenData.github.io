@@ -2,71 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saskatchewan Open Data</title>
-    <link>/</link>
+    <link>http://opendatask.ca/</link>
     <description>Recent content on Saskatchewan Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2020</copyright>
-    <lastBuildDate>Sat, 11 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://opendatask.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Review of Open Data in Saskatachewan 2017</title>
-      <link>/post/open-data-day-recap-2017/</link>
-      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      <title>Predicting Results of the 29th Saskatchewan General Election (2020)</title>
+      <link>http://opendatask.ca/post/riding-predictions-sk-ge-2020/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/open-data-day-recap-2017/</guid>
-      <description>It was International Open Data Day on March 5, 2017. The day has breezed by me this year, as with many previous years. Let’s review where the province has been on open data over this time and where it might be going.
-Recap of Open Data SaskatchewanThis site has now been live for just over 5 years. There hasn’t been much change to the site over this time, but there have been some changes in the province.</description>
+      <guid>http://opendatask.ca/post/riding-predictions-sk-ge-2020/</guid>
+      <description>Predicted election resultPartyPredictedSeatsActualSeatsNDP8NASP53NAPredicted results for Saskatchewan provincial ridings{&#34;x&#34;:{&#34;url&#34;:&#34;/post/2020-10-20-riding-model-table_files/figure-html//widgets/widget_unnamed-chunk-2.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
     </item>
     
     <item>
       <title>About Open Data Saskatchewan</title>
-      <link>/about/</link>
+      <link>http://opendatask.ca/about/</link>
       <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://opendatask.ca/about/</guid>
       <description>Who are you, anyway? The Open Data Saskatchewan project was started in 2011 by Andrew J. Dyck. The project depends heavily on a support from a loose collection of open data enthusiasts across the province. If you’d like to get involved, please contact me. There is zero connection, officially or unofficially between this website and any government body; though I am always interested and open to hearing from those involved in government.</description>
     </item>
     
     <item>
       <title>Newsletter</title>
-      <link>/newsletter/</link>
+      <link>http://opendatask.ca/newsletter/</link>
       <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/newsletter/</guid>
+      <guid>http://opendatask.ca/newsletter/</guid>
       <description>Open data for the flatlands In our modern time, we have the ability to connect citizens, business and government like never before. We cannot expect government to guess at what we in want or need out of our information infrastructure and we cannot expect them to do it on their own.
 Through this newsletter, I&amp;rsquo;ll keep you up-to-date with my progress on the Open Data Saskatchewan project and highlight developments in information transparency as they arise.</description>
     </item>
     
     <item>
       <title>Saskatchewan Open Data Sources</title>
-      <link>/data/</link>
+      <link>http://opendatask.ca/data/</link>
       <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/data/</guid>
+      <guid>http://opendatask.ca/data/</guid>
       <description>Liberated data The following datasets are open/available, but not &amp;ldquo;tidy&amp;rdquo; or easily accessible. Some effort to improve the accessibility of this data has been made in the most transparent way possible.
  Saskatchewan COVID-19 cases time-series Crown agricultural land sales (annual) Regina crime data  Official open data Provincial government  Statistics Saskatchewan - Economic accounts Statistics Saskatchewan - Monthly reports Energy and Resources - Data File Series Energy and Resources - Saskatchewan Mineral Assessment Database Energy and Resources - Saskatchewan Mineral Deposit Index Energy and Resources - Kimberlite Indicator Minerals Finance - Public accounts (PDF of Payments [and salaries] over $50,000) Finance - Provincial Budget (PDF) Sask Spills - [Hazardous Materials Storage Search]&amp;lt;!</description>
     </item>
     
     <item>
-      <title>Terms &amp; Conditions</title>
-      <link>/terms/</link>
-      <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/terms/</guid>
-      <description>General All content provided is for informational purposes only. The articles and posts on this website are my own and do not represent the positions, strategies, or opinions of the employer or its subsidiaries of any authors associated with this site. Furthermore, there is no connection, officially or unofficially, between materials featured on this site and any government body, whether they be municipal, provincial, federal, or international.
-We make no representations as to the accuracy or completeness of any information found here or by following any links.</description>
-    </item>
-    
-    <item>
       <title>Open Data Saskatchewan Inaugural Hackathon</title>
-      <link>/post/2011-12-03-open-data-saskatchewan-inaugural-hackathon/</link>
+      <link>http://opendatask.ca/post/2011-12-03-open-data-saskatchewan-inaugural-hackathon/</link>
       <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>/post/2011-12-03-open-data-saskatchewan-inaugural-hackathon/</guid>
+      <guid>http://opendatask.ca/post/2011-12-03-open-data-saskatchewan-inaugural-hackathon/</guid>
       <description>What is it? An event for open data enthusiasts and developers and others to get involved in their community through improving access to and use of open data in the province. A hackathon is a great place to build new open data driven apps, meet people and have a good time.
 You can sign up for the event here: http://opendatask1.eventbrite.com
 Where and when? The nice folks at the George Bothwell library have agreed to have us on Saturday, December 3, 2011 from 10am - 4pm.</description>
@@ -74,19 +59,19 @@ Where and when? The nice folks at the George Bothwell library have agreed to hav
     
     <item>
       <title>Open Data Day in Saskatchewan</title>
-      <link>/post/2011-11-05-open-data-day-in-saskatchewan/</link>
+      <link>http://opendatask.ca/post/2011-11-05-open-data-day-in-saskatchewan/</link>
       <pubDate>Sat, 05 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>/post/2011-11-05-open-data-day-in-saskatchewan/</guid>
+      <guid>http://opendatask.ca/post/2011-11-05-open-data-day-in-saskatchewan/</guid>
       <description>Starting off the Open Data Saskatchewan blog I&amp;rsquo;d like to throw an idea out there to hold an introductory open data event in Regina, SK on international open data day, which is December 3, 2011. I&amp;rsquo;ve added Regina to the list of cities hosting a &amp;lsquo;hackathon&amp;rsquo; meeting on that day, however, anyone in Saskatchewan interested in open data should consider attending if they can. I&amp;rsquo;d like to work with some others interested in attending to see what type of events we can do on this day.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>http://opendatask.ca/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>http://opendatask.ca/contact/</guid>
       <description>Interested in open data in Saskatchewan but don&amp;rsquo;t know where to start? Want to contribute? Give me a shout:
 E-mail info@opendatask.ca
 Twitter @andrewjdyck @OpenDataSK

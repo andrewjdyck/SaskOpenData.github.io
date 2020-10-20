@@ -2,49 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Saskatchewan Open Data</title>
-    <link>/tags/</link>
+    <link>http://opendatask.ca/tags/</link>
     <description>Recent content in Tags on Saskatchewan Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2020</copyright>
-    <lastBuildDate>Sat, 11 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://opendatask.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>open-data-day</title>
-      <link>/tags/open-data-day/</link>
-      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      <title>democracy</title>
+      <link>http://opendatask.ca/tags/democracy/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/open-data-day/</guid>
+      <guid>http://opendatask.ca/tags/democracy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>review</title>
-      <link>/tags/review/</link>
-      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      <title>election</title>
+      <link>http://opendatask.ca/tags/election/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/review/</guid>
+      <guid>http://opendatask.ca/tags/election/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model</title>
+      <link>http://opendatask.ca/tags/model/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://opendatask.ca/tags/model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prediction</title>
+      <link>http://opendatask.ca/tags/prediction/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://opendatask.ca/tags/prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hackathon</title>
-      <link>/tags/hackathon/</link>
+      <link>http://opendatask.ca/tags/hackathon/</link>
       <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hackathon/</guid>
+      <guid>http://opendatask.ca/tags/hackathon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regina</title>
-      <link>/tags/regina/</link>
+      <link>http://opendatask.ca/tags/regina/</link>
       <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>/tags/regina/</guid>
+      <guid>http://opendatask.ca/tags/regina/</guid>
       <description></description>
     </item>
     
