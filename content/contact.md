@@ -8,7 +8,7 @@ tags: []
 Interested in open data in Saskatchewan but don't know where to start? Want to contribute? Give me a shout: 
 
 ## E-mail
-<info@opendatask.ca> 
+<opendatask@gmail.com> 
 
 ## Twitter
 [@andrewjdyck][1]
