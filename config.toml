@@ -5,8 +5,9 @@ paginate = 5
 theme = "hugo-theme-casper"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 DisqusShortname = "open-data-saskatchewan.disqus.com"
-Copyright = "All rights reserved - 2020"
+Copyright = "All rights reserved - 2021"
 canonifyurls = true
+publishDir = "publicly"
 
 [params]
   description = "Data transparency for the flatlands"
