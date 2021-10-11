@@ -21,9 +21,7 @@ The following datasets are open/available, but not ["tidy"](https://en.wikipedia
 
 ### Provincial government
 
-- Statistics Saskatchewan - [Economic accounts][18]
-- Statistics Saskatchewan - [Monthly reports][19]
-- Energy and Resources - [Data File Series][20]
+<!-- - Energy and Resources - [Data File Series][20] -->
 - Energy and Resources - [Saskatchewan Mineral Assessment Database][21]
 - Energy and Resources - [Saskatchewan Mineral Deposit Index][22]
 - Energy and Resources - [Kimberlite Indicator Minerals][23]
@@ -98,7 +96,7 @@ The following datasets are open/available, but not ["tidy"](https://en.wikipedia
  [17]: http://www.infomaps.gov.sk.ca/website/SIR_Geological_Atlas/viewer.htm
  [18]: http://www.stats.gov.sk.ca/Default.aspx?DN=6dab2e58-1fdc-4ab2-aab4-f0671ddbeae9
  [19]: http://www.stats.gov.sk.ca/monthly%20reports
- [20]: http://www.er.gov.sk.ca/Default.aspx?DN=984a7f7e-8cfa-4880-a880-e5370c0f1fca
+<!-- [20]: http://www.er.gov.sk.ca/Default.aspx?DN=984a7f7e-8cfa-4880-a880-e5370c0f1fca -->
  [21]: http://www.er.gov.sk.ca/smad
  [22]: http://www.er.gov.sk.ca/SMDI
  [23]: http://www.er.gov.sk.ca/kim

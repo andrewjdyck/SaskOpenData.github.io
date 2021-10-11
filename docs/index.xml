@@ -6,7 +6,7 @@
     <description>Recent content on Saskatchewan Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>All rights reserved - 2020</copyright>
+    <copyright>All rights reserved - 2021</copyright>
     <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://opendatask.ca/index.xml" rel="self" type="application/rss+xml" />
@@ -68,7 +68,7 @@ Through this newsletter, I&amp;rsquo;ll keep you up-to-date with my progress on 
       
       <guid>http://opendatask.ca/data/</guid>
       <description>Liberated data The following datasets are open/available, but not &amp;ldquo;tidy&amp;rdquo; or easily accessible. Some effort to improve the accessibility of this data has been made in the most transparent way possible.
- Saskatchewan COVID-19 cases time-series Crown agricultural land sales (annual) Regina crime data  Official open data Provincial government  Statistics Saskatchewan - Economic accounts Statistics Saskatchewan - Monthly reports Energy and Resources - Data File Series Energy and Resources - Saskatchewan Mineral Assessment Database Energy and Resources - Saskatchewan Mineral Deposit Index Energy and Resources - Kimberlite Indicator Minerals Finance - Public accounts (PDF of Payments [and salaries] over $50,000) Finance - Provincial Budget (PDF) Sask Spills - [Hazardous Materials Storage Search] Sask Spills - [Spills Search] Energy and Resources Saskatchewan - Oil and gas spill notification database Energy and Resources Saskatchewan - Operating mines list (PDF) Enerygy and Resources Saskatchewan - Mineral Deposits Index Energy and Resources Saskatchewan - Saskatchewan Mineral Assessments Database  Municipal government  City of Regina Open Data  Spatial: Bike paths, City Boundaries, Points of Interest, etc.</description>
+ Saskatchewan COVID-19 cases time-series Crown agricultural land sales (annual) Regina crime data  Official open data Provincial government  Energy and Resources - Saskatchewan Mineral Assessment Database Energy and Resources - Saskatchewan Mineral Deposit Index Energy and Resources - Kimberlite Indicator Minerals Finance - Public accounts (PDF of Payments [and salaries] over $50,000) Finance - Provincial Budget (PDF) Sask Spills - [Hazardous Materials Storage Search] Sask Spills - [Spills Search] Energy and Resources Saskatchewan - Oil and gas spill notification database Energy and Resources Saskatchewan - Operating mines list (PDF) Enerygy and Resources Saskatchewan - Mineral Deposits Index Energy and Resources Saskatchewan - Saskatchewan Mineral Assessments Database  Municipal government  City of Regina Open Data  Spatial: Bike paths, City Boundaries, Points of Interest, etc.</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@ Where and when? The nice folks at the George Bothwell library have agreed to hav
       
       <guid>http://opendatask.ca/contact/</guid>
       <description>Interested in open data in Saskatchewan but don&amp;rsquo;t know where to start? Want to contribute? Give me a shout:
-E-mail info@opendatask.ca
+E-mail opendatask@gmail.com
 Twitter @andrewjdyck @OpenDataSK
 Mailing list Open Data Saskatchewan Newsletter</description>
     </item>
