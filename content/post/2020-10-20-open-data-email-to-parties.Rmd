@@ -1,7 +1,7 @@
 ---
 author: "andrewjdyck"
 date: "2020-10-20"
-draft: false
+draft: true
 title: "Open data letter to political parties - SK General Election 2020"
 slug: "/open-data-positions-SK-GE-2020"
 tags: ["election","democracy"]

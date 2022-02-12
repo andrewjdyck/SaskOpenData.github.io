@@ -1,127 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://opendatask.ca/post/open-data-positions-sk-ge-2020/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/post/riding-predictions-sk-ge-2020/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/post/open-data-day-recap-2017/</loc>
-    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/about/</loc>
-    <lastmod>2016-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/newsletter/</loc>
-    <lastmod>2016-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/data/</loc>
-    <lastmod>2016-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/post/2011-12-03-open-data-saskatchewan-inaugural-hackathon/</loc>
-    <lastmod>2011-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/post/2011-11-05-open-data-day-in-saskatchewan/</loc>
-    <lastmod>2011-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/categories/articles/</loc>
-    <lastmod>2011-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/categories/</loc>
-    <lastmod>2011-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/contact/</loc>
-  </url>
-  
   <url>
     <loc>http://opendatask.ca/tags/democracy/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://opendatask.ca/tags/election/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/tags/hackathon/</loc>
-    <lastmod>2011-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://opendatask.ca/tags/model/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/tags/open-data-day/</loc>
-    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://opendatask.ca/post/open-data-positions-sk-ge-2020/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://opendatask.ca/post/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://opendatask.ca/post/riding-predictions-sk-ge-2020/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://opendatask.ca/tags/prediction/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/tags/regina/</loc>
-    <lastmod>2011-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://opendatask.ca/tags/review/</loc>
-    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://opendatask.ca/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://opendatask.ca/tags/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>http://opendatask.ca/post/open-data-day-recap-2017/</loc>
+    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://opendatask.ca/tags/open-data-day/</loc>
+    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://opendatask.ca/tags/review/</loc>
+    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://opendatask.ca/about/</loc>
+    <lastmod>2016-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://opendatask.ca/newsletter/</loc>
+    <lastmod>2016-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://opendatask.ca/data/</loc>
+    <lastmod>2016-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://opendatask.ca/categories/</loc>
+  </url><url>
+    <loc>http://opendatask.ca/contact/</loc>
   </url>
-  
 </urlset>

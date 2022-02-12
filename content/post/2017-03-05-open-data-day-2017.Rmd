@@ -1,7 +1,7 @@
 ---
 author: "andrewjdyck"
 date: "2017-03-11"
-draft: false
+draft: true
 title: "A Review of Open Data in Saskatachewan 2017"
 slug: "/open-data-day-recap-2017"
 tags: ["open-data-day","review"]

@@ -1,7 +1,7 @@
 ---
 author: "andrewjdyck"
 date: "2020-10-20"
-draft: false
+draft: true
 title: "Predicting Results of the 29th Saskatchewan General Election (2020)"
 slug: "/riding-predictions-SK-GE-2020"
 tags: ["election","democracy","model","prediction"]

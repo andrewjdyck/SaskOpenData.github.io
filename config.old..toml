@@ -30,3 +30,33 @@ publishDir = "docs"
   [params.social]
     twitter = "opendatask"
 
+
+[[menu.main]]
+  name = "Home"
+  weight = -120
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "About"
+  weight = -110
+  identifier = "about"
+  url = "/about"
+
+[[menu.main]]
+  name = "Data Sources"
+  weight = -100
+  identifier = "data"
+  url = "/data"
+
+[[menu.main]]
+  name = "Newsletter"
+  weight = -90
+  identifier = "newsletter"
+  url = "/newsletter"
+
+[[menu.main]]
+  name = "Contact"
+  weight = -80
+  identifier = "contact"
+  url = "/contact"
