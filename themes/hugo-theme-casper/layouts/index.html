@@ -30,7 +30,8 @@
             {{ with .Site.Params.description }}<h2 class="page-description">{{.}}</h2>{{end}}
         </div>
         <p>
-          {{ partial "mailchimp-signup.html" . }}
+          <!-- {{ partial "mailchimp-signup.html" . }} -->
+          {{ partial "substack-signup.html" . }}
         </p>
         
     </div>

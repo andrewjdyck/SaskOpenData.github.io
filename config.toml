@@ -10,7 +10,7 @@ canonifyurls = true
 publishDir = "docs"
 
 [params]
-  description = "Data transparency for the flatlands"
+  description = ""
   cover = "images/cover.jpg"
   author = "Andrew Dyck"
   authorlocation = "Regina, SK"
