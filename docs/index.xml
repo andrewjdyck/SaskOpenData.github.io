@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saskatchewan Open Data</title>
-    <link>http://opendatask.ca/</link>
+    <link>https://opendatask.ca/</link>
     <description>Recent content on Saskatchewan Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2021</copyright>
-    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://opendatask.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://opendatask.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open data letter to political parties - SK General Election 2020</title>
-      <link>http://opendatask.ca/post/open-data-positions-sk-ge-2020/</link>
+      <link>https://opendatask.ca/post/open-data-positions-sk-ge-2020/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://opendatask.ca/post/open-data-positions-sk-ge-2020/</guid>
+      <guid>https://opendatask.ca/post/open-data-positions-sk-ge-2020/</guid>
       <description>Letter to political parties Sent to all six registered political parties in Saskatchewan on September 20, 2020.
  Hi,
 I write to you today to inquire about the PARTY NAME HERE position on a topic of importance to citizens of Saskatchewan. Information is foundational to both the full functioning of our democracy, as well as, increasingly, the successful integration of the information economy into that of our own.</description>
@@ -21,58 +21,58 @@ I write to you today to inquire about the PARTY NAME HERE position on a topic of
     
     <item>
       <title>Predicting Results of the 29th Saskatchewan General Election (2020)</title>
-      <link>http://opendatask.ca/post/riding-predictions-sk-ge-2020/</link>
+      <link>https://opendatask.ca/post/riding-predictions-sk-ge-2020/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://opendatask.ca/post/riding-predictions-sk-ge-2020/</guid>
+      <guid>https://opendatask.ca/post/riding-predictions-sk-ge-2020/</guid>
       <description>      Predicted election result   Party  PredictedSeats  ActualSeats      NDP  8  NA    SP  53  NA      Predicted results for Saskatchewan provincial ridings  {&#34;x&#34;:{&#34;url&#34;:&#34;/post/2020-10-20-riding-model-table_files/figure-html//widgets/widget_unnamed-chunk-2.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}  </description>
     </item>
     
     <item>
       <title>A Review of Open Data in Saskatachewan 2017</title>
-      <link>http://opendatask.ca/post/open-data-day-recap-2017/</link>
+      <link>https://opendatask.ca/post/open-data-day-recap-2017/</link>
       <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://opendatask.ca/post/open-data-day-recap-2017/</guid>
+      <guid>https://opendatask.ca/post/open-data-day-recap-2017/</guid>
       <description>It was International Open Data Day on March 5, 2017. The day has breezed by me this year, as with many previous years. Let’s review where the province has been on open data over this time and where it might be going.
 Recap of Open Data Saskatchewan This site has now been live for just over 5 years. There hasn’t been much change to the site over this time, but there have been some changes in the province.</description>
     </item>
     
     <item>
       <title>About Open Data Saskatchewan</title>
-      <link>http://opendatask.ca/about/</link>
+      <link>https://opendatask.ca/about/</link>
       <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://opendatask.ca/about/</guid>
+      <guid>https://opendatask.ca/about/</guid>
       <description>Who are you, anyway? The Open Data Saskatchewan project was started in 2011 by Andrew J. Dyck. The project depends heavily on a support from a loose collection of open data enthusiasts across the province. If you’d like to get involved, please contact me. There is zero connection, officially or unofficially between this website and any government body; though I am always interested and open to hearing from those involved in government.</description>
     </item>
     
     <item>
       <title>Newsletter</title>
-      <link>http://opendatask.ca/newsletter/</link>
+      <link>https://opendatask.ca/newsletter/</link>
       <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://opendatask.ca/newsletter/</guid>
+      <guid>https://opendatask.ca/newsletter/</guid>
       <description>Open data for the flatlands In our modern time, we have the ability to connect citizens, business and government like never before. We cannot expect government to guess at what we in want or need out of our information infrastructure and we cannot expect them to do it on their own.
 Through this newsletter, I&amp;rsquo;ll keep you up-to-date with my progress on the Open Data Saskatchewan project and highlight developments in information transparency as they arise.</description>
     </item>
     
     <item>
       <title>Saskatchewan Open Data Sources</title>
-      <link>http://opendatask.ca/data/</link>
+      <link>https://opendatask.ca/data/</link>
       <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://opendatask.ca/data/</guid>
+      <guid>https://opendatask.ca/data/</guid>
       <description>Liberated data The following datasets are open/available, but not &amp;ldquo;tidy&amp;rdquo; or easily accessible. Some effort to improve the accessibility of this data has been made in the most transparent way possible.
  Saskatchewan COVID-19 cases time-series Crown agricultural land sales (annual) Regina crime data  Official open data Provincial government  Energy and Resources - Saskatchewan Mineral Assessment Database Energy and Resources - Saskatchewan Mineral Deposit Index Energy and Resources - Kimberlite Indicator Minerals Finance - Public accounts (PDF of Payments [and salaries] over $50,000) Finance - Provincial Budget (PDF) Sask Spills - [Hazardous Materials Storage Search] Sask Spills - [Spills Search] Energy and Resources Saskatchewan - Oil and gas spill notification database Energy and Resources Saskatchewan - Operating mines list (PDF) Enerygy and Resources Saskatchewan - Mineral Deposits Index Energy and Resources Saskatchewan - Saskatchewan Mineral Assessments Database  Municipal government  City of Regina Open Data  Spatial: Bike paths, City Boundaries, Points of Interest, etc.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://opendatask.ca/contact/</link>
+      <link>https://opendatask.ca/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://opendatask.ca/contact/</guid>
+      <guid>https://opendatask.ca/contact/</guid>
       <description>Interested in open data in Saskatchewan but don&amp;rsquo;t know where to start? Want to contribute? Give me a shout:
 E-mail opendatask@gmail.com
 Twitter @andrewjdyck @OpenDataSK
