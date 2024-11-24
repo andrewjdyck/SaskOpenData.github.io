@@ -10,12 +10,12 @@ canonifyurls = true
 publishDir = "docs"
 
 [params]
-  description = ""
-  cover = "images/cover.jpg"
+  description = "Description here"
+  # cover = "images/cover.jpg"
   author = "Andrew Dyck"
   authorlocation = "Regina, SK"
   authorwebsite = "http://andrewdyck.com"
-  bio= "Andrew loves data. When he's not moving bytes around for analysis or visualization, he's writing about open data."
+  bio= ""
   logo = "images/logo.png"
   mailchimpurl = "https://opendatask.us20.list-manage.com/subscribe/post?u=4194d641d0e422e7e016b09ba&amp;id=0e854551b7"
   googleAnalyticsUserID = "UA-26754725-1"
