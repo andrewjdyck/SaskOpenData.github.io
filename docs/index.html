@@ -155,6 +155,11 @@
             color: white;
         }
 
+        #modal-submit:disabled, #modal-cancel:disabled {
+            background: #bdc3c7;
+            cursor: not-allowed;
+        }
+
         #modal-submit:hover {
             background: #2980b9;
         }
@@ -222,12 +227,31 @@
             currentPlanType = planType; // Save the selected plan type
             emailInput.value = ''; // Clear the input
             modalMessage.textContent = 'Please input your email address to continue:';
+            submitButton.disabled = false;
+            cancelButton.disabled = false;
             modal.classList.remove('hidden');
         }
 
         // Function to hide the modal
         function hideModal() {
             modal.classList.add('hidden');
+        }
+
+        // Function to show the final "Ok" button after response
+        function showOkButton() {
+            const okButton = document.createElement('button');
+            okButton.textContent = 'Ok';
+            okButton.style.background = '#3498db';
+            okButton.style.color = 'white';
+            okButton.style.padding = '0.5rem 1rem';
+            okButton.style.border = 'none';
+            okButton.style.borderRadius = '4px';
+            okButton.style.cursor = 'pointer';
+            okButton.addEventListener('click', hideModal);
+
+            const actions = document.querySelector('.modal-actions');
+            actions.innerHTML = ''; // Clear existing buttons
+            actions.appendChild(okButton);
         }
 
         // Submit button click handler
@@ -237,6 +261,9 @@
                 modalMessage.textContent = 'Email is required!';
                 return;
             }
+
+            submitButton.disabled = true;
+            cancelButton.disabled = true;
 
             try {
                 const response = await fetch('https://y77lgjrk65wuug7mykwoupug7m0upgiq.lambda-url.us-west-2.on.aws/', {
@@ -251,14 +278,17 @@
 
                 if (response.ok) {
                     modalMessage.textContent = 'Successfully subscribed! Check your inbox for confirmation.';
-                    submitButton.disabled = true;
-                    submitButton.style.background = '#2ecc71'; // Success color
+                    showOkButton();
                 } else {
                     modalMessage.textContent = `Error: ${result.message}`;
+                    submitButton.disabled = false;
+                    cancelButton.disabled = false;
                 }
             } catch (error) {
                 modalMessage.textContent = 'An error occurred. Please try again.';
                 console.error('Error subscribing:', error);
+                submitButton.disabled = false;
+                cancelButton.disabled = false;
             }
         });
 
