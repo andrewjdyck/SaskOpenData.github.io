@@ -31,6 +31,21 @@
             font-size: 1rem;
             color: #7f8c8d;
         }
+        .intro-card {
+            background: white;
+            border: 1px solid #e1e4e8;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 2rem;
+            text-align: center;
+            margin-bottom: 2rem;
+            max-width: 800px;
+        }
+        .intro-card p {
+            font-size: 1rem;
+            color: #7f8c8d;
+            line-height: 1.5;
+        }
         .plans {
             display: flex;
             gap: 2rem;
@@ -49,6 +64,12 @@
         .plan h2 {
             font-size: 1.5rem;
             color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        .plan .price {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #3498db;
             margin-bottom: 1rem;
         }
         .plan p {
@@ -174,9 +195,16 @@
         <h1>Open Data Saskatchewan</h1>
         <p>Saskatchewan's platform for exclusive insights and data analysis.</p>
     </header>
+
+    <!-- Intro Card -->
+    <div class="intro-card">
+        <p>Open Data Saskatchewan provides exclusive insights and detailed analytics tailored to the needs of our province. By signing up, you'll gain access to valuable content and tools that help you stay informed and make better decisions.</p>
+    </div>
+
     <div class="plans">
         <div class="plan">
             <h2>Basic</h2>
+            <p class="price">Free</p>
             <p>Get started with our free subscription.</p>
             <ul class="features">
                 <li class="check"><span class="icon">✔</span> Access to newsletter</li>
@@ -187,6 +215,7 @@
         </div>
         <div class="plan">
             <h2>Professional</h2>
+            <p class="price">$20/month</p>
             <p>Unlock all premium features and products.</p>
             <ul class="features">
                 <li class="check"><span class="icon">✔</span> Access to newsletter</li>
