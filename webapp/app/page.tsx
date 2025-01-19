@@ -45,14 +45,14 @@ export default function LandingPage() {
       {/* Navigation */}
       <nav className="container mx-auto p-6">
         <div className="flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-blue-600">YourProduct</h1>
+          <h1 className="text-2xl font-bold text-blue-600">ODSK</h1>
         </div>
       </nav>
 
       {/* Hero Section */}
       <section className="container mx-auto px-6 py-16 text-center">
-        <h1 className="text-5xl font-bold mb-4">Transform Your Workflow</h1>
-        <p className="text-xl mb-8">Boost productivity with our cutting-edge digital solution</p>
+        <h1 className="text-5xl font-bold mb-4">Open Data Saskatchewan</h1>
+        <p className="text-xl mb-8">Data transparency for the prairies</p>
       </section>
 
 
@@ -69,16 +69,16 @@ export default function LandingPage() {
       {/* Features Section */}
       <section className="container mx-auto px-6 py-16">
         <div className='text-content'>
-          <h2 className="text-3xl font-bold text-center mb-12">Why Choose Us?</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">It's time to ACT on prairie open data</h2>
         </div>
         <div className="grid md:grid-cols-3 gap-8">
-          {['Easy Integration', 'Advanced Analytics', 'Top-notch Security'].map((feature) => (
+          {['Awareness', 'Conviction', 'Tools'].map((feature) => (
             <Card key={feature}>
               <CardHeader>
                 <CardTitle>{feature}</CardTitle>
               </CardHeader>
               <CardContent>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>Shining a Light on Open Data through highlighting the value of open data - what it is and why it matters.</p>
               </CardContent>
             </Card>
           ))}
@@ -88,13 +88,13 @@ export default function LandingPage() {
       {/* Pricing Section */}
       <section className="container mx-auto px-6 py-16">
       <div className='text-content'>
-          <h2 className="text-3xl font-bold text-center mb-12">Simple, Transparent Pricing</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">Get involved and support Open Data Saskatchewan</h2>
         </div>
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           {[
             { 
               name: 'Basic', 
-              price: '$0.00', 
+              price: '$0', 
               features: [
                 { name: 'Feature 1', included: true },
                 { name: 'Feature 2', included: false },
@@ -104,7 +104,7 @@ export default function LandingPage() {
             },
             { 
               name: 'Pro', 
-              price: '$19.99', 
+              price: '$20', 
               features: [
                 { name: 'Feature 1', included: true },
                 { name: 'Feature 2', included: true },
@@ -150,10 +150,10 @@ export default function LandingPage() {
       {/* Call to Action */}
       <section className="bg-blue-600 text-white py-16">
         <div className="container mx-auto px-6 text-center">
-          <h2 className="text-3xl font-bold mb-4">Ready to Get Started?</h2>
-          <p className="mb-8">Join thousands of satisfied customers and transform your workflow today.</p>
+          <h2 className="text-3xl font-bold mb-4">Looking for more?</h2>
+          <p className="mb-8">If you are interested in open data in Saskatchewan, I'd love to hear from you. The project lead, @andrewjdyck, has worked with technology and business leaders across the province to ACT on data transparency and transformation.</p>
           <Button size="lg" variant="secondary" className="text-lg px-8" onClick={() => openModal('free')}>
-            Start Your Free Trial
+            Contact Andy
           </Button>
         </div>
       </section>
