@@ -21,12 +21,12 @@ export default function LandingPage() {
 
   const handleSubmit = async (email: string) => {
     try {
-      const response = await fetch('YOUR_AWS_LAMBDA_ENDPOINT', {
+      const response = await fetch('https://y77lgjrk65wuug7mykwoupug7m0upgiq.lambda-url.us-west-2.on.aws/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ email, plan: selectedPlan }),
+        body: JSON.stringify({ email, planType: selectedPlan }),
       })
 
       if (response.ok) {
@@ -45,14 +45,15 @@ export default function LandingPage() {
       {/* Navigation */}
       <nav className="container mx-auto p-6">
         <div className="flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-blue-600">ODSK</h1>
+          {/* <h1 className="text-2xl font-bold text-blue-600">ODSK</h1> */}
+          <img src="images/ods-logo.png" alt="Open Data Saskatchewan Logo"></img>
         </div>
       </nav>
 
       {/* Hero Section */}
       <section className="container mx-auto px-6 py-16 text-center">
         <h1 className="text-5xl font-bold mb-4">Open Data Saskatchewan</h1>
-        <p className="text-xl mb-8">Data transparency for the prairies</p>
+        {/* <p className="text-xl mb-8">Data transparency for the prairies</p> */}
       </section>
 
 
@@ -69,21 +70,58 @@ export default function LandingPage() {
       {/* Features Section */}
       <section className="container mx-auto px-6 py-16">
         <div className='text-content'>
-          <h2 className="text-3xl font-bold text-center mb-12">It's time to ACT on prairie open data</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">It's time to ACT open data in the prairies</h2>
         </div>
         <div className="grid md:grid-cols-3 gap-8">
-          {['Awareness', 'Conviction', 'Tools'].map((feature) => (
-            <Card key={feature}>
+          <Card key='Awareness'>
               <CardHeader>
-                <CardTitle>{feature}</CardTitle>
+                <CardTitle>Awareness</CardTitle>
               </CardHeader>
               <CardContent>
-                <p>Shining a Light on Open Data through highlighting the value of open data - what it is and why it matters.</p>
+                <p>Shining a light on open data through highlighting the value of open data - what it is and why it matters.</p>
               </CardContent>
             </Card>
-          ))}
+            <Card key='Conviction'>
+              <CardHeader>
+                <CardTitle>Conviction</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p>Building demand and advocacy means claiming your rights to open data and inspiring action and ownership.</p>
+              </CardContent>
+            </Card>
+            <Card key='Tools'>
+              <CardHeader>
+                <CardTitle>Tools</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p>Empowering people to act by guiding others on how to use open data. Building skills and toolsets to create value in the Saskatchewan economy and enhanced public life.</p>
+              </CardContent>
+            </Card>
         </div>
       </section>
+
+      {/* Handbook Section */}
+      <section className="section-container">
+      
+      <div className="content-wrapper">
+        <img
+          src="images/handbook.png"
+          alt="Description of the image"
+          className="image"
+        />
+        <div className="text-column">
+          <h2 className="section-heading">The Saskatchewan Open Data Handbook</h2>
+          <p>
+            The Saskatchewan Open Data Handbook is your guide to understanding and accessing open data in the province.
+            In the handbook you will find descriptions of the most useful, and sometimes hard to find, open data in the province and how to access this data and get started using it today.
+          </p>
+          <br />
+          <p>
+            Download the Saskatchewan Open Data Handbook today when you signup to be a member of Open Data Saskatchewan below.
+          </p>
+        </div>
+      </div>
+    </section>
 
       {/* Pricing Section */}
       <section className="container mx-auto px-6 py-16">
@@ -96,20 +134,20 @@ export default function LandingPage() {
               name: 'Basic', 
               price: '$0', 
               features: [
-                { name: 'Feature 1', included: true },
-                { name: 'Feature 2', included: false },
+                { name: 'Newsletter', included: true },
+                { name: 'Sask Open Data Handbook', included: true },
                 { name: 'Feature 3', included: false },
                 { name: 'Feature 4', included: false }
               ]
             },
             { 
-              name: 'Pro', 
+              name: 'Supporting member', 
               price: '$20', 
               features: [
-                { name: 'Feature 1', included: true },
-                { name: 'Feature 2', included: true },
-                { name: 'Feature 3', included: true },
-                { name: 'Feature 4', included: true }
+                { name: 'Newsletter', included: true },
+                { name: 'Sask Open Data Handbook', included: true },
+                { name: 'Quarterly Sask Economic Trends Report', included: true },
+                { name: 'Support transformational change', included: true }
               ]
             },
           ].map((plan) => (
@@ -152,15 +190,16 @@ export default function LandingPage() {
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold mb-4">Looking for more?</h2>
           <p className="mb-8">If you are interested in open data in Saskatchewan, I'd love to hear from you. The project lead, @andrewjdyck, has worked with technology and business leaders across the province to ACT on data transparency and transformation.</p>
-          <Button size="lg" variant="secondary" className="text-lg px-8" onClick={() => openModal('free')}>
+          {/* <Button size="lg" variant="secondary" className="text-lg px-8" onClick={() => openModal('free')}>
             Contact Andy
-          </Button>
+          </Button> */}
+          <a href="https://andrewdyck.com" class="button">Contact Andy</a>
         </div>
       </section>
 
       {/* Footer */}
       <footer className="container mx-auto p-6 text-center text-gray-500">
-        <p>&copy; 2023 YourProduct. All rights reserved.</p>
+        <p>&copy; 2025 Open Data Saskatchewan. All rights reserved.</p>
       </footer>
 
       {/* Signup Modal */}
