@@ -136,8 +136,8 @@ export default function LandingPage() {
               features: [
                 { name: 'Newsletter', included: true },
                 { name: 'Sask Open Data Handbook', included: true },
-                { name: 'Feature 3', included: false },
-                { name: 'Feature 4', included: false }
+                { name: 'Quarterly Sask Economic Trends Report', included: false },
+                { name: 'Support transformational change', included: false }
               ]
             },
             { 
