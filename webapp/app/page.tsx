@@ -193,7 +193,7 @@ export default function LandingPage() {
           {/* <Button size="lg" variant="secondary" className="text-lg px-8" onClick={() => openModal('free')}>
             Contact Andy
           </Button> */}
-          <a href="https://andrewdyck.com" class="button">Contact Andy</a>
+          <a href="https://andrewdyck.com" className="button">Contact Andy</a>
         </div>
       </section>
 
