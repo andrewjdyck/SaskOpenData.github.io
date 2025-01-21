@@ -3,9 +3,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## STUFF TO DO
 
 - Look into the leading slash for /_next/ in the project. Do I need to address the baseURL?
-- Ensure that .nojekyll is added to the project somehow so that when I rebuild, it is saved in the /docs/ directory and committed to gihub pages.
 - See if Google Analytics can be better incorporated. 
 - Host the Saskatchewan Open Data Handbook in this repository instead of Dropbox? Or post on gumroad?
+- ensure that favicon.ico is working properly.
 
 ## Getting Started
 
