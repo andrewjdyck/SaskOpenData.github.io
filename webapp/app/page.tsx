@@ -70,7 +70,7 @@ export default function LandingPage() {
       {/* Features Section */}
       <section className="container mx-auto px-6 py-16">
         <div className='text-content'>
-          <h2 className="text-3xl font-bold text-center mb-12">It's time to ACT open data in the prairies</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">It's time to ACT on open data in the prairies</h2>
         </div>
         <div className="grid md:grid-cols-3 gap-8">
           <Card key='Awareness'>
