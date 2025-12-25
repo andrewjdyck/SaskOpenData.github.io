@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import Image from 'next/image'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { CheckCircle, XCircle } from 'lucide-react'
@@ -46,7 +47,7 @@ export default function LandingPage() {
       <nav className="container mx-auto p-6">
         <div className="flex justify-between items-center">
           {/* <h1 className="text-2xl font-bold text-blue-600">ODSK</h1> */}
-          <img src="images/ods-logo.png" alt="Open Data Saskatchewan Logo"></img>
+          <Image src="/images/ods-logo.png" alt="Open Data Saskatchewan Logo" width={120} height={40} />
         </div>
       </nav>
 
@@ -70,7 +71,7 @@ export default function LandingPage() {
       {/* Features Section */}
       <section className="container mx-auto px-6 py-16">
         <div className='text-content'>
-          <h2 className="text-3xl font-bold text-center mb-12">It's time to ACT on open data in the prairies</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">It&apos;s time to ACT on open data in the prairies</h2>
         </div>
         <div className="grid md:grid-cols-3 gap-8">
           <Card key='Awareness'>
@@ -104,9 +105,11 @@ export default function LandingPage() {
       <section className="section-container">
       
       <div className="content-wrapper">
-        <img
-          src="images/handbook.png"
+        <Image
+          src="/images/handbook.png"
           alt="Description of the image"
+          width={400}
+          height={300}
           className="image"
         />
         <div className="text-column">
@@ -189,7 +192,7 @@ export default function LandingPage() {
       <section className="bg-blue-600 text-white py-16">
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold mb-4">Looking for more?</h2>
-          <p className="mb-8">If you are interested in open data in Saskatchewan, I'd love to hear from you. The project lead, @andrewjdyck, has worked with technology and business leaders across the province to ACT on data transparency and transformation.</p>
+          <p className="mb-8">If you are interested in open data in Saskatchewan, I&apos;d love to hear from you. The project lead, @andrewjdyck, has worked with technology and business leaders across the province to ACT on data transparency and transformation.</p>
           {/* <Button size="lg" variant="secondary" className="text-lg px-8" onClick={() => openModal('free')}>
             Contact Andy
           </Button> */}
