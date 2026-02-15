@@ -28,3 +28,4 @@ build/
 # Lockfiles (if you're using a different package manager)
 yarn.lock
 pnpm-lock.yaml
+/.claude
